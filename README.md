@@ -62,9 +62,9 @@ ollama pull qwen3:0.6b
 
 ## Project Files
 
-- "Prompt_Engineering_Showdown.ipynb" – Main implementation and demonstrations
-- "requirements.txt" – Python dependencies
-- ".gitignore" – Files excluded from version control
+- `Prompt_Engineering_Showdown.ipynb` – Main implementation and demonstrations
+- `requirements.txt` – Python dependencies
+- `.gitignore` – Files excluded from version control
 
 ## Real-World Relevance
 
@@ -74,7 +74,7 @@ Structured output with Pydantic is particularly useful when LLM responses need t
 
 ## Edge Case / Failure Mode
 
-The project demonstrates how `ambiguous or loosely defined prompts can result in inconsistent or incomplete outputs`. The issue is addressed by defining a structured output schema using Pydantic and Ollama's "format" parameter, making the response more predictable and easier to validate programmatically.
+The project demonstrates how `ambiguous or loosely defined prompts can result in inconsistent or incomplete outputs`. The issue is addressed by defining a structured output schema using Pydantic and Ollama's `format` parameter, making the response more predictable and easier to validate programmatically.
 
 ## Assignment
 GROWAI LLM Engineering & Generative AI - Assignment 4
