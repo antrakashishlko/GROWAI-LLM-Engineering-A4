@@ -1,4 +1,4 @@
-### GROWAI LLM Engineering - Assignment 4
+# GROWAI LLM Engineering - Assignment 4
 
 ## Prompt Engineering Showdown
 
